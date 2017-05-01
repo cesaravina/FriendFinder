@@ -1,6 +1,6 @@
 // Dependencies
 var express = require('express');
-var bodyParser = require('bodyParser');
+var bodyParser = require('body-parser');
 var path = require('path')
 
 var app = express();
